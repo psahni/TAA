@@ -70,7 +70,7 @@ Kills the container - stops and removes
 
 * REMOVE ALL CONTAINERS
 $ docker container ls -aq | xargs docker container rm
-
+x`
 * Remove all images:
 docker image ls -aq | xargs docker rmi -f
 
@@ -192,3 +192,11 @@ https://github.com/tsmean/docker-tutorial
 
 watch later
 https://www.youtube.com/watch?v=bU2NNFJ-UXA
+
+
+
+#---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+https://linuxize.com/post/how-to-remove-docker-images-containers-volumes-and-networks/
+
+https://linuxize.com/post/how-to-remove-docker-images-containers-volumes-and-networks/
